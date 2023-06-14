@@ -1,19 +1,39 @@
 plugins {
-    id "org.springframework.boot" version "3.1.0"
-    id "io.spring.dependency-management" version "1.1.0"
+    id 'org.springframework.boot' version '3.1.0'
+    id 'io.spring.dependency-management' version '1.1.0'
     id 'java'
 }
 
 group 'org.example'
 version '1.0-SNAPSHOT'
+sourceCompatibility = '17'
 
 repositories {
     mavenCentral()
 }
 
+
+
 dependencies {
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+// https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-server
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:4.0.2'
+
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+ext {
+    set('springCloudVersion', "2022.0.3")
+}
+
+//// https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-dependencies
+//import 'org.springframework.cloud:spring-cloud-dependencies:2022.0.3'
+
+dependencyManagement {
+    imports {
+        mavenBom "org.springframework.cloud:spring-cloud-dependencies:${springCloudVersion}"
+    }
 }
 
 test {
