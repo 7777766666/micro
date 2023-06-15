@@ -4,29 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51f12592-7897-4730-be40-03dfc47e5bad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eurika-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/src/main/java/com/example/eurikaclient/EurikaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/src/main/java/com/example/eurikaclient/controller/ControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eurika-client/src/test/java/com/example/eurikaclient/EurikaClientApplicationTests.java" afterDir="false" />
+    <list default="true" id="51f12592-7897-4730-be40-03dfc47e5bad" name="Changes" comment="Controller">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/example/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/src/main/java/com/example/eurikaclient2/EurikaClient2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/src/main/java/com/example/eurikaclient2/controller/SecondController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurika-client-2/src/test/java/com/example/eurikaclient2/EurikaClient2ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurica-server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eurica-server/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eurica-server/src/main/java/org/example/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurica-server/src/main/java/org/example/EurekaServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eurica-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eurica-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurika-client/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eurika-client/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurika-client/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/eurika-client/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurika-client/src/main/java/com/example/eurikaclient/controller/ControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/eurika-client/src/main/java/com/example/eurikaclient/controller/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurika-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eurika-client/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +46,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/api-gateway">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/eurika-client">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/eurika-client-2">
       <ProjectState />
     </projectState>
   </component>
@@ -81,8 +96,14 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "f1f1460f872fd1e197198b5fd4a47a9d",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "8a1c7e659ae0713181289374e1177d14",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RunDashboard">
@@ -93,7 +114,14 @@
     </option>
     <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurikaClientApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="micro.eurica-server.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.EurekaServerApplication" />
@@ -107,13 +135,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurikaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="eurika-client.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurikaclient.EurikaClientApplication" />
+    <configuration name="EurikaClient2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurika-client-2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurikaclient2.EurikaClient2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurikaClientApplication-ver1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.example.micro.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurikaclient.EurikaClientApplication" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurikaClientApplication-ver2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.example.micro.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurikaclient.EurikaClientApplication" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurikaClientApplication-ver3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.example.micro.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurikaclient.EurikaClientApplication" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.EurikaClient2Application" />
+      <item itemvalue="Spring Boot.EurikaClientApplication-ver1" />
+      <item itemvalue="Spring Boot.EurikaClientApplication-ver2" />
+      <item itemvalue="Spring Boot.EurikaClientApplication-ver3" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.EurekaServerApplication" />
@@ -129,8 +201,17 @@
       <option name="presentableId" value="Default" />
       <updated>1686761005123</updated>
       <workItem from="1686761006422" duration="3483000" />
-      <workItem from="1686764797248" duration="9937000" />
+      <workItem from="1686764797248" duration="19706000" />
+      <workItem from="1686814348291" duration="15242000" />
     </task>
+    <task id="LOCAL-00001" summary="Controller">
+      <created>1686775055998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686775055998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +219,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controller" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

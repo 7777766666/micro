@@ -16,11 +16,31 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-8.1.1-all/gradle-8.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/eurika-client" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-8.1.1-all/gradle-8.1.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/eurika-client" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/eurika-client-2" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../gradle-8.1.1-all/gradle-8.1.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/eurika-client-2" />
           </set>
         </option>
       </GradleProjectSettings>
